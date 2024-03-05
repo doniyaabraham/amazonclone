@@ -20,7 +20,7 @@
 }  
 
     .logo{
-    background-image: url("logo.jpeg");
+    background-image: url("logo.webp");
     background-color: white;
     background-size: cover;
     height: 60px;
@@ -98,7 +98,7 @@ width: 50px;
 
 }
 .flag-logo{
-    background-image: url("flag.jpg");
+    background-image: url("flag.webp");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100px;
@@ -176,7 +176,7 @@ width: 50px;
     font-weight: 700;
 }
 .hero-section{
-    background-image: url("hero.jpeg");
+    background-image: url("hero.webp");
     background-size: cover;
     height: 300px;
     width: 100vw;
@@ -249,7 +249,7 @@ background-color : #c2cfc6;
     width:  100vw;  
 } 
 
-   .hero2{background-image: url("home.jpg");
+   .hero2{background-image: url("home.webp");
     background-size:contain;
     background-repeat: no-repeat; 
       height: 300px; 
@@ -325,7 +325,7 @@ justify-content: space-evenly;
     justify-content: center;
 }
   .electrical{
-    background-image: url("series.jpg");
+    background-image: url("series.webp");
     background-size: contain;
      background-repeat: no-repeat; 
     background-position: center; 
@@ -387,7 +387,7 @@ ul p{
     margin-top: 10px;
 }
 .logo{
-    background-image: url("logo.jpeg");
+    background-image: url("logo.webp");
     background-color: white;
     background-size: cover;
     height: 60px;
